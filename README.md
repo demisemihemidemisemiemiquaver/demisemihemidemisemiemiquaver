@@ -1,5 +1,5 @@
  Hello! I’m Emi!! 
-- I'm working on myy BIS in Game Design and Development @ GSU
+- I'm working on my BIS in Game Design and Development @ GSU
 
 <!---
 demisemihemidemisemiemiquaver/demisemihemidemisemiemiquaver is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
